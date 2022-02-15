@@ -2,13 +2,17 @@
 content_type: resource
 description: 'Eleanor, attired for bed: beneath the queen is another queen, this one
   human, a mother, a warrior of love.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-732-beginning-costume-design-and-construction-fall-2008/cea78fa9751b80d21489c773a0fecb14_eleanor2.jpg
+file: /media/courses/21m-732-beginning-costume-design-and-construction-fall-2008/cea78fa9751b80d21489c773a0fecb14_eleanor2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Eleanor, attired for bed: beneath the queen is another queen, this one
     human, a mother, a warrior of love.'
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lion in Winter - B
+parent_type: CourseSection
 resourcetype: Image
 title: Eleanor 2
 uid: cea78fa9-751b-80d2-1489-c773a0fecb14
