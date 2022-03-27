@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6287434e-fb7f-8b96-5a40-994c74b22f9c
 resourcetype: Document
 title: Paperdoll
 uid: b9221194-79a0-5803-ad12-705c11a66f30

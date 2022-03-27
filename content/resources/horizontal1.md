@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Line Gowns - Student A
 parent_type: CourseSection
+parent_uid: e22d60f6-e6a0-454b-cc4b-879dd1207d9d
 resourcetype: Image
 title: Student A - Horizontal
 uid: 1350e7c5-8709-2cff-8550-f36d03f3849c

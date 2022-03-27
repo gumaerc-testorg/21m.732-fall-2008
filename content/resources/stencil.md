@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6287434e-fb7f-8b96-5a40-994c74b22f9c
 resourcetype: Document
 title: Stencil Rendering
 uid: bc73cc30-1e78-4d74-88ac-b6364ff16308

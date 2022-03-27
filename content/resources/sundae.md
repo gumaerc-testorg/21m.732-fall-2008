@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Food Assignment
 parent_type: CourseSection
+parent_uid: b0081133-fc7e-cb3e-2f17-a4cde7eb0d41
 resourcetype: Image
 title: Sundae
 uid: f6512d47-a3de-52fe-c9fd-1f496bd2ceda

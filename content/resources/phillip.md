@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lion in Winter - A
 parent_type: CourseSection
+parent_uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
 resourcetype: Image
 title: Philip
 uid: e290debe-f81c-b32f-b7e6-febb277bf3ae

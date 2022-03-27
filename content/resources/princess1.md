@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Newspaper Wedding
 parent_type: CourseSection
+parent_uid: de9474d6-8c28-c8d3-48a5-dc3d4664e467
 resourcetype: Image
 title: Princess 1
 uid: 58bc3434-efd3-acac-70ad-e4b460ea1030

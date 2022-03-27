@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6287434e-fb7f-8b96-5a40-994c74b22f9c
 resourcetype: Document
 title: Elements of Design
 uid: 80a71a3e-0994-05c9-b76d-0c50453dc78f

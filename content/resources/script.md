@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6287434e-fb7f-8b96-5a40-994c74b22f9c
 resourcetype: Document
 title: Script, Character, and Concept
 uid: b85e1d21-573e-ee8e-1839-bcb4297fe925

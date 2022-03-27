@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 6287434e-fb7f-8b96-5a40-994c74b22f9c
 resourcetype: Document
 title: 'The Psychology of Clothes '
 uid: 67f5569a-714a-bcd1-0ed2-6a6b0caf73f2

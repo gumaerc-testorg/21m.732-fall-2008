@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Newspaper Wedding
 parent_type: CourseSection
+parent_uid: de9474d6-8c28-c8d3-48a5-dc3d4664e467
 resourcetype: Image
 title: Showgirl 1
 uid: 03a23c1a-d9ad-0e42-891a-5cb0fb5d38dd

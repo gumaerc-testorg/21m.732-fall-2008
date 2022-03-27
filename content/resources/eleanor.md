@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lion in Winter - A
 parent_type: CourseSection
+parent_uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
 resourcetype: Image
 title: Eleanor of Aquitaine
 uid: ad00a5ef-5cae-d311-5aa7-4b4bc36b2d3a

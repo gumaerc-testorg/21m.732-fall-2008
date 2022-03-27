@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lion in Winter - B
 parent_type: CourseSection
+parent_uid: 2b0f2a5f-c483-8d11-e9d5-701cc5f41e49
 resourcetype: Image
 title: Geoffrey
 uid: 8faede67-0788-d668-d0a3-f9a5b19f4365

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lion in Winter - B
 parent_type: CourseSection
+parent_uid: 2b0f2a5f-c483-8d11-e9d5-701cc5f41e49
 resourcetype: Image
 title: Alais 1
 uid: 85df31be-f28b-dfb7-4281-80a677232bb2

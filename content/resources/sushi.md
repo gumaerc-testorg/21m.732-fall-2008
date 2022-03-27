@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Food Assignment
 parent_type: CourseSection
+parent_uid: b0081133-fc7e-cb3e-2f17-a4cde7eb0d41
 resourcetype: Image
 title: Sushi
 uid: adf7f86b-8b37-2f3f-2dd2-ce684378fe06
