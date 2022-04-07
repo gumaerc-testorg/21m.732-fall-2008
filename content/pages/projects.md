@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+parent_uid: null
 title: Projects
 uid: a9a6fc2a-c408-9c5f-33af-17e853279f1b
 ---
 
-This page contains details about the various activities students complete in and out of class. Examples of student work for some activities can be found on the [Image Galleries]({{< baseurl >}}/pages/image-galleries) page.
+This page contains details about the various activities students complete in and out of class. Examples of student work for some activities can be found on the {{< resource_link 98c05d51-6d98-adcf-a7e7-203c245e831a "Image Galleries" >}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -185,7 +186,7 @@ Watch excerpts of _Hamlet_ by Zeffirelli and discuss idea of concept
 
 ### Line gowns
 
-Students share their renderings of dresses designed with a dominant vertical, horizontal and diagonal line. We discuss what effect each creates. (Images: [Student A]({{< baseurl >}}/pages/image-galleries/line-gowns-student-a), [Student B]({{< baseurl >}}/pages/image-galleries/line-gowns-student-b))
+Students share their renderings of dresses designed with a dominant vertical, horizontal and diagonal line. We discuss what effect each creates. (Images: {{< resource_link e22d60f6-e6a0-454b-cc4b-879dd1207d9d "Student A" >}}, {{< resource_link 3fa26932-ba44-6d17-8a4a-90755b609f6b "Student B" >}})
 
 
 {{< tdclose >}}
@@ -209,7 +210,7 @@ Begin drafting unit: bodice and hip block
 
 ### Food assignment
 
-Ads for Vytorin, an anti-cholesterol drug, feature photos of food and people with matching appearances. See examples: [one](http://dearscience.org/wp-content/uploads/2008/04/vytorin500.jpg), [two](http://i.zdnet.com/blogs/vytorinad.JPG), [three](http://s.wsj.net/media/vytorin_c_20080116140537.jpg), [four](http://bp0.blogger.com/_ZiPiXEv_Q_g/Rd2XAUnIbvI/AAAAAAAAANA/dImNwirU7DI/s1600-h/VytorinWebAd.jpg). Students were asked to bring in a photo of a food that they find attractive. They then render a character using the same principles of design observed in the food picture. ([Images]({{< baseurl >}}/pages/image-galleries/food-assignment))
+Ads for Vytorin, an anti-cholesterol drug, feature photos of food and people with matching appearances. See examples: [one](http://dearscience.org/wp-content/uploads/2008/04/vytorin500.jpg), [two](http://i.zdnet.com/blogs/vytorinad.JPG), [three](http://s.wsj.net/media/vytorin_c_20080116140537.jpg), [four](http://bp0.blogger.com/_ZiPiXEv_Q_g/Rd2XAUnIbvI/AAAAAAAAANA/dImNwirU7DI/s1600-h/VytorinWebAd.jpg). Students were asked to bring in a photo of a food that they find attractive. They then render a character using the same principles of design observed in the food picture. ({{< resource_link b0081133-fc7e-cb3e-2f17-a4cde7eb0d41 "Images" >}})
 
 
 {{< tdclose >}}
@@ -311,7 +312,7 @@ Wedding project
 
 ### Wedding project
 
-Students are assigned a persona, such as Victorian schoolmistress, punk, WASP, etc., and create a wedding dress out of newspaper in a single class session. ([Images]({{< baseurl >}}/pages/image-galleries/newspaper-wedding))
+Students are assigned a persona, such as Victorian schoolmistress, punk, WASP, etc., and create a wedding dress out of newspaper in a single class session. ({{< resource_link de9474d6-8c28-c8d3-48a5-dc3d4664e467 "Images" >}})
 
 
 {{< tdclose >}}
@@ -529,7 +530,7 @@ Students construct an article of clothing (vest, skirt, hat, etc.) out of found 
 Final project preso, _Lion In Winter_
 {{< tdclose >}}
 {{< tdopen >}}
-Students present fully rendered and swatched designs for all costumes in _The Lion in Winter_. Included in the project is a paper describing their concept, how they did research and how they went about expressing their ideas visually. (Images: [Student A]({{< baseurl >}}/pages/image-galleries/lion-in-winter-a), [Student B]({{< baseurl >}}/pages/image-galleries/lion-in-winter-b))
+Students present fully rendered and swatched designs for all costumes in _The Lion in Winter_. Included in the project is a paper describing their concept, how they did research and how they went about expressing their ideas visually. (Images: {{< resource_link ee8aa7c7-827d-252e-9ea0-3f6a864888c1 "Student A" >}}, {{< resource_link 2b0f2a5f-c483-8d11-e9d5-701cc5f41e49 "Student B" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
