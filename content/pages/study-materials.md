@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section provides study materials to supplement the lecture sessions.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Study Materials
 uid: 6287434e-fb7f-8b96-5a40-994c74b22f9c
 ---
@@ -45,11 +45,11 @@ Chekhov, Anton. "[_On the Harm of Tobacco_](http://method.vtheatre.net/doc/tobac
 
 Baker, Georgia O'Daniel, and Helen Redel Pullman. "The Basic Figure and How Clothes Fit the Body." Chapter 1 in _A Handbook of Costume Drawing_. Burlington, MA: Focal Press, 2000. ISBN: 9780240804033.
 
-Basic Function of Costumes ({{< resource_link 13230cce-4e0d-057f-ac99-8b0c1b503af3 "PDF" >}})
+Basic Function of Costumes ({{% resource_link 13230cce-4e0d-057f-ac99-8b0c1b503af3 "PDF" %}})
 
-Reading the Play ({{< resource_link a2feb1e9-da3d-c66d-b472-857d9abbe1ad "PDF" >}})
+Reading the Play ({{% resource_link a2feb1e9-da3d-c66d-b472-857d9abbe1ad "PDF" %}})
 
-Stencil Rendering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link bc73cc30-1e78-4d74-88ac-b6364ff16308 "PDF" >}})
+Stencil Rendering ({{% resource_link bc73cc30-1e78-4d74-88ac-b6364ff16308 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -78,7 +78,7 @@ Phillips, H. I. "Little Red Riding Hood as a Dictator Would Tell It." (1940)
 
 Taken from:  Zipes, Jack. _The Trials & Tribulations of Little Red Riding Hood_. New York, NY: Routledge, 1993. ISBN: 978-0415908351.
 
-The Psychology of Clothes ({{< resource_link 67f5569a-714a-bcd1-0ed2-6a6b0caf73f2 "PDF 1" >}}), ({{< resource_link a37e52e7-f362-8258-0230-001a5880aed5 "PDF 2" >}})
+The Psychology of Clothes ({{% resource_link 67f5569a-714a-bcd1-0ed2-6a6b0caf73f2 "PDF 1" %}}), ({{% resource_link a37e52e7-f362-8258-0230-001a5880aed5 "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -116,9 +116,9 @@ Discuss _On the Harm of Tobacco_ renderings
 {{< tdopen >}}
 
 
-Script, Character, Concept ({{< resource_link b85e1d21-573e-ee8e-1839-bcb4297fe925 "PDF" >}})
+Script, Character, Concept ({{% resource_link b85e1d21-573e-ee8e-1839-bcb4297fe925 "PDF" %}})
 
-Research ({{< resource_link 926ffac3-5d3b-3028-46a8-88bb300c8795 "PDF" >}})
+Research ({{% resource_link 926ffac3-5d3b-3028-46a8-88bb300c8795 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -166,7 +166,7 @@ Lecture: Elements of Design
 {{< tdopen >}}
 
 
-Elements of Design ({{< resource_link 80a71a3e-0994-05c9-b76d-0c50453dc78f "PDF" >}})
+Elements of Design ({{% resource_link 80a71a3e-0994-05c9-b76d-0c50453dc78f "PDF" %}})
 
 Fig. 4.29, 4.30, 4.31 in _Costume Design_.
 

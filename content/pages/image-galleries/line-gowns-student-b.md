@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: An image gallery of student costume designs.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Image Galleries
