@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy an MIT student. Used with permission.'
   image-alt: Drawing of a dress.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Line Gowns - Student B
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Student B - Horizontal
 uid: ae799bc9-110f-fb13-29ad-237e0ddf26c5
 ---
 A dress with horizontal lines.
-

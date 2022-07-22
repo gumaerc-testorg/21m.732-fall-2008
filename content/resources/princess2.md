@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Newspaper Wedding
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Princess 2
 uid: 7ba26431-a2d3-fd7e-08bd-5a3d88279b2f
 ---
 Newspaper wedding gown for a Disney princess, from the back.
-

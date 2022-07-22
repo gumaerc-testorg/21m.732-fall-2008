@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Drawing of a student-designed costume.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Food Assignment
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Lemon Cake
 uid: bac00278-f6fa-5972-84c2-ec166090fc65
 ---
 Inspired by a lemon layer cake.
-

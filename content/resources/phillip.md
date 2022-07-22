@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lion in Winter - A
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Philip
 uid: e290debe-f81c-b32f-b7e6-febb277bf3ae
 ---
 Philip Capet, King of France.
-

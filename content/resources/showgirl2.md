@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Newspaper Wedding
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Showgirl 2
 uid: 9e5c652c-0914-bc40-5cbe-0aefc6712622
 ---
 Newspaper wedding gown for a Las Vegas show girl, from the back.
-

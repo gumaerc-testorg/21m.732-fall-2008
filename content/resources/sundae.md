@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Drawing of a student-designed costume.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Food Assignment
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Sundae
 uid: f6512d47-a3de-52fe-c9fd-1f496bd2ceda
 ---
 Inspired by an ice cream sundae.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lion in Winter - B
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: John
 uid: 4b62d4a9-f826-54e5-2725-6b3471910a04
 ---
 John: what a carefree cub in a den of snarling lions!
-

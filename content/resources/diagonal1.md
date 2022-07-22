@@ -10,6 +10,7 @@ image_metadata:
     past the left ankle, and continues at floor-length in back. The bodice leaves
     the right shoulder bare and has a long left sleeve that widens past the elbow.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Line Gowns - Student A
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Student A - Diagonal
 uid: cc0481d6-32be-8763-4dc5-5e56090251d8
 ---
 A dress with diagonal lines.
-

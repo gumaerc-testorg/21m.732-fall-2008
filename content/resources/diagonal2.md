@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Line Gowns - Student B
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Student B - Diagonal
 uid: 8f787910-9651-bb87-c80d-c172688910ec
 ---
 A dress with diagonal lines.
-

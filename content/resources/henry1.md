@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lion in Winter - B
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Henry
 uid: daac2ba7-3dff-60ad-18bf-1ac7526ca299
 ---
 Henry: the king of the pack, ripe to fend of challengers and time.
-

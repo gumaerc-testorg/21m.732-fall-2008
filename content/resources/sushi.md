@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Drawing of a student-designed costume.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Food Assignment
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Sushi
 uid: adf7f86b-8b37-2f3f-2dd2-ce684378fe06
 ---
 Inspired by a sushi buffet, left.
-

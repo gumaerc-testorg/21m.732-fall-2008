@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lion in Winter - A
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Henry
 uid: 2fe40b79-0fc6-a027-4312-c960894430f1
 ---
 Henry II, King of England
-

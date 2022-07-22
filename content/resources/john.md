@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lion in Winter - A
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: John
 uid: 49a6f6c7-9c3b-7c41-0a71-1c5175f25a11
 ---
 John, son of Henry and Eleanor.
-

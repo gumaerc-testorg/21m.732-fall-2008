@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'
   image-alt: Drawing of a student-designed costume.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lion in Winter - B
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Alais 1
 uid: 85df31be-f28b-dfb7-4281-80a677232bb2
 ---
 Alais: she is nothing but a beautifully wrapped pawn.
-
