@@ -1,13 +1,17 @@
 ---
 content_type: page
+description: 'An image gallery of student costume designs.  '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 98c05d51-6d98-adcf-a7e7-203c245e831a
 title: Lion in Winter - B
 uid: 2b0f2a5f-c483-8d11-e9d5-701cc5f41e49
 ---
 
 ### Student B
-{{< image-gallery id="2b0f2a5f-c483-8d11-e9d5-701cc5f41e49_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-732-beginning-costume-design-and-construction-fall-2008/" >}}
+{{< image-gallery id="2b0f2a5f-c483-8d11-e9d5-701cc5f41e49_nanogallery2" baseUrl="/courses/21m-732-beginning-costume-design-and-construction-fall-2008/" >}}
 {{< image-gallery-item href="85df31bef28bdfb7428180a677232bb2_alais1.jpg" data-ngdesc="Alais: she is nothing but a beautifully wrapped pawn." text="Alais: she is nothing but a beautifully wrapped pawn." >}}
 {{< image-gallery-item href="b64b3123f7007fa0dc87d9300f480395_alais2.jpg" data-ngdesc="Alais, attired for bed: when you strip everything away, there is no queen, just a beautiful maiden." text="Alais, attired for bed: when you strip everything away, there is no queen, just a beautiful maiden." >}}
 {{< image-gallery-item href="d5ef259126726170015e3bb068bcbce1_eleanor1.jpg" data-ngdesc="Eleanor: a queen of queens." text="Eleanor: a queen of queens." >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: 'An image gallery of student costume designs.  '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Galleries
+parent_type: CourseSection
 parent_uid: 98c05d51-6d98-adcf-a7e7-203c245e831a
 title: Lion in Winter - A
 uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
@@ -10,7 +14,7 @@ _Lion in Winter_ Characters
 ---------------------------
 
 ### Student A
-{{< image-gallery id="ee8aa7c7-827d-252e-9ea0-3f6a864888c1_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21m-732-beginning-costume-design-and-construction-fall-2008/" >}}
+{{< image-gallery id="ee8aa7c7-827d-252e-9ea0-3f6a864888c1_nanogallery2" baseUrl="/courses/21m-732-beginning-costume-design-and-construction-fall-2008/" >}}
 {{< image-gallery-item href="17c70c6bb1be0743fe1100725612ed3e_alais.jpg" data-ngdesc="Alais Capet, half-sister of Philip." text="Alais Capet, half-sister of Philip." >}}
 {{< image-gallery-item href="ad00a5ef5caed3115aa74b4bc36b2d3a_eleanor.jpg" data-ngdesc="Eleanor of Aquitaine, Queen of England." text="Eleanor of Aquitaine, Queen of England." >}}
 {{< image-gallery-item href="faa02a05941fb0dbd1c401205087d26c_geoffrey.jpg" data-ngdesc="Geoffrey, son of Henry and Eleanor." text="Geoffrey, son of Henry and Eleanor." >}}
