@@ -3,6 +3,7 @@ content_type: resource
 description: Class handout on the basic function of costumes and how the costumes
   support theme, concept, and mood.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/13230cce4e0d057fac998b0c1b503af3_costumes.pdf
+file_size: 26333
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

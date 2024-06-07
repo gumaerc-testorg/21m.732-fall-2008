@@ -2,6 +2,7 @@
 content_type: resource
 description: Newspaper wedding gown for a Disney princess, from the front.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/58bc3434efd3acac70ade4b460ea1030_princess1.jpg
+file_size: 57544
 file_type: image/jpeg
 image_metadata:
   caption: Newspaper wedding gown for a Disney princess, from the front.

@@ -2,6 +2,7 @@
 content_type: resource
 description: A dress with vertical lines.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/5a619d7f73604943ddd5293eaf44cea4_vertical.jpg
+file_size: 19412
 file_type: image/jpeg
 image_metadata:
   caption: A dress with vertical lines.
