@@ -2,6 +2,7 @@
 content_type: resource
 description: A dress with horizontal lines.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/ae799bc9110ffb1329ad237e0ddf26c5_horizontal2.jpg
+file_size: 32295
 file_type: image/jpeg
 image_metadata:
   caption: A dress with horizontal lines.

@@ -41,7 +41,7 @@ Lecture: Reading the Play
 {{< tdopen >}}
 
 
-Chekhov, Anton. "{{% resource_link "400765c6-49af-4213-ae5e-7ee501aad465" "_On the Harm of Tobacco_" %}}."
+Chekhov, Anton. "[_On the Harm of Tobacco_](http://method.vtheatre.net/doc/tobacco.html)."
 
 Baker, Georgia O'Daniel, and Helen Redel Pullman. "The Basic Figure and How Clothes Fit the Body." Chapter 1 in _A Handbook of Costume Drawing_. Burlington, MA: Focal Press, 2000. ISBN: 9780240804033.
 
@@ -71,7 +71,7 @@ Discuss _On the Harm of Tobacco_ lists
 {{< tdopen >}}
 
 
-Perrault, Charles. "{{% resource_link "da6db6a9-8ed4-49f6-b1ac-da266d7ad7ce" "Little Red Riding Hood" %}}." (1697)  
+Perrault, Charles. "[Little Red Riding Hood](http://www.gutenberg.org/files/17208/17208-h/17208-h.htm#LITTLE_RED_RIDING-HOOD)." (1697)  
 Baring-Gould, Sabine. "Little Red Riding Hood." (1895)  
 Sharpe, Anne. "Not So Little Red Riding Hood." (1985)  
 Phillips, H. I. "Little Red Riding Hood as a Dictator Would Tell It." (1940)
@@ -220,7 +220,7 @@ Watch excerpts of _Hamlet_ by Zeffirelli and discuss idea of concept
 {{< tdopen >}}
 
 
-"{{% resource_link "6407eee4-989b-48fe-b442-45919ce463d8" "_Hamlet_" %}}." Directed by Franco Zeffirelli. Warner Brothers, 1990.
+"[_Hamlet_](http://www.imdb.com/title/tt0099726/)." Directed by Franco Zeffirelli. Warner Brothers, 1990.
 
 Boxes 5.A, 5.B, 5.C, 5.D, pp. 123-125 in _The Magic Garment_.
 
@@ -370,7 +370,7 @@ Begin sloper manipulation project
 
 {{< tdclose >}}
 {{< tdopen >}}
-Maginnis, Tara. {{% resource_link "3b311c32-9f99-41cc-b858-1a5579b30671" "_Kiosk Man_" %}}.
+Maginnis, Tara. [_Kiosk Man_](http://taramaginnis.com/54548_01front008/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -452,15 +452,15 @@ _Lion in Winter_ questions
 {{< tdopen >}}
 
 
-The Duct Tape Guys. "{{% resource_link "346e36e4-4aaf-448c-a6a7-0673f3314f44" "Duct Tape Fashion Gallery One" %}}."
+The Duct Tape Guys. "[Duct Tape Fashion Gallery One](http://www.ducttapeguys.com/fashion/fashion.html)."
 
-Apparel Search Company. "{{% resource_link "abd7d595-c5d1-46ca-b437-8d3495ed9a36" "Unusual Clothing - Tokyo Skirt" %}}."
+Apparel Search Company. "[Unusual Clothing - Tokyo Skirt](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_tokyo_skirt.htm)."
 
-Apparel Search Company. "{{% resource_link "d5c32e23-1b5f-41bb-995b-e832a4770da2" "Unusual Clothing - Baby Mops" %}}."
+Apparel Search Company. "[Unusual Clothing - Baby Mops](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_baby_mops.htm)."
 
-Apparel Search Company. "{{% resource_link "836dc3ea-182e-4d48-8ea2-9a5c465791e7" "Unusual Clothing - Handy Support" %}}."
+Apparel Search Company. "[Unusual Clothing - Handy Support](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_supportive_hands.htm)."
 
-The Scream Online. "{{% resource_link "62fa70e9-c6c9-4a1f-be8d-de3facc936d6" "Hats of Meat" %}}."
+The Scream Online. "[Hats of Meat](https://web.archive.org/web/20060208051037/https://thescreamonline.com/strange/strange2-2/hatsofmeat.html)."
 
 
 {{< tdclose >}}

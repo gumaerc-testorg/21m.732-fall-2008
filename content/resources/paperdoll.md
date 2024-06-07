@@ -2,6 +2,7 @@
 content_type: resource
 description: Printable paper doll cutout.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/b922119479a05803ad12705c11a66f30_paperdoll.pdf
+file_size: 402502
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
