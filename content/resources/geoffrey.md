@@ -2,6 +2,7 @@
 content_type: resource
 description: Geoffrey, son of Henry and Eleanor.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/faa02a05941fb0dbd1c401205087d26c_geoffrey.jpg
+file_size: 39533
 file_type: image/jpeg
 image_metadata:
   caption: Geoffrey, son of Henry and Eleanor.

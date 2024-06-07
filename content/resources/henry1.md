@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Henry: the king of the pack, ripe to fend of challengers and time.'
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/daac2ba73dff60ad18bf1ac7526ca299_henry1.jpg
+file_size: 77304
 file_type: image/jpeg
 image_metadata:
   caption: 'Henry: the king of the pack, ripe to fend of challengers and time.'

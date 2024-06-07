@@ -2,6 +2,7 @@
 content_type: resource
 description: Alais Capet, half-sister of Philip.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/17c70c6bb1be0743fe1100725612ed3e_alais.jpg
+file_size: 39422
 file_type: image/jpeg
 image_metadata:
   caption: Alais Capet, half-sister of Philip.
