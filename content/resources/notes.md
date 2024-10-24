@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout on the psychology of clothing, the meaning of clothes,
   and psychological factors.
-file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/a37e52e7f36282580230001a5880aed5_notes.pdf
+file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/a37e52e7f36282580230001a5880aed5_notes.pdf
 file_size: 33423
 file_type: application/pdf
 learning_resource_types: []
