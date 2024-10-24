@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Questions to consider when reading a play for the course.
-file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/a2feb1e9da3dc66db472857d9abbe1ad_play_q.pdf
+file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/a2feb1e9da3dc66db472857d9abbe1ad_play_q.pdf
 file_size: 29922
 file_type: application/pdf
 learning_resource_types: []
