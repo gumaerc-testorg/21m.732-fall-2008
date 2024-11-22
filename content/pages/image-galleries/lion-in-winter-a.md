@@ -8,8 +8,8 @@ parent_type: CourseSection
 parent_uid: 98c05d51-6d98-adcf-a7e7-203c245e831a
 title: Lion in Winter - A
 uid: ee8aa7c7-827d-252e-9ea0-3f6a864888c1
+weight: 50
 ---
-
 _Lion in Winter_ Characters
 ---------------------------
 
