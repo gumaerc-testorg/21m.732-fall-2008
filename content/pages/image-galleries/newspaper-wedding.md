@@ -8,8 +8,8 @@ parent_type: CourseSection
 parent_uid: 98c05d51-6d98-adcf-a7e7-203c245e831a
 title: Newspaper Wedding
 uid: de9474d6-8c28-c8d3-48a5-dc3d4664e467
+weight: 40
 ---
-
 Newspaper Wedding
 -----------------
 {{< image-gallery id="de9474d6-8c28-c8d3-48a5-dc3d4664e467_nanogallery2" baseUrl="/courses/21m-732-beginning-costume-design-and-construction-fall-2008/" >}}

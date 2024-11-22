@@ -8,8 +8,8 @@ parent_type: CourseSection
 parent_uid: 98c05d51-6d98-adcf-a7e7-203c245e831a
 title: Food Assignment
 uid: b0081133-fc7e-cb3e-2f17-a4cde7eb0d41
+weight: 30
 ---
-
 Food Assignment
 ---------------
 {{< image-gallery id="b0081133-fc7e-cb3e-2f17-a4cde7eb0d41_nanogallery2" baseUrl="/courses/21m-732-beginning-costume-design-and-construction-fall-2008/" >}}
