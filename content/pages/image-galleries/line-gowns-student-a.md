@@ -8,8 +8,8 @@ parent_type: CourseSection
 parent_uid: 98c05d51-6d98-adcf-a7e7-203c245e831a
 title: Line Gowns - Student A
 uid: e22d60f6-e6a0-454b-cc4b-879dd1207d9d
+weight: 10
 ---
-
 Line Gowns
 ----------
 
