@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A dress with horizontal lines.
-file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/1350e7c587092cff8550f36d03f3849c_horizontal1.jpg
+file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/1350e7c587092cff8550f36d03f3849c_horizontal1.jpg
 file_size: 23934
 file_type: image/jpeg
 image_metadata:

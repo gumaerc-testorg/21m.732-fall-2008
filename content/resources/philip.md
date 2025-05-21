@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Philip: the young king of France. '
-file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/2b95666ba7645b8e5bb643a47145fd40_philip.jpg
+file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/2b95666ba7645b8e5bb643a47145fd40_philip.jpg
 file_size: 67957
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Henry II, King of England
-file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/2fe40b790fc6a0274312c960894430f1_henry.jpg
+file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/2fe40b790fc6a0274312c960894430f1_henry.jpg
 file_size: 36589
 file_type: image/jpeg
 image_metadata:

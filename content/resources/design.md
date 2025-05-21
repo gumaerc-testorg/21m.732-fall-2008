@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class handout on the elements of design for costume design.
-file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/80a71a3e099405c9b76d0c50453dc78f_design.pdf
+file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/80a71a3e099405c9b76d0c50453dc78f_design.pdf
 file_size: 37980
 file_type: application/pdf
 learning_resource_types: []
