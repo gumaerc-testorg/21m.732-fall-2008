@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Eleanor of Aquitaine, Queen of England.
-file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/ad00a5ef5caed3115aa74b4bc36b2d3a_eleanor.jpg
+file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/ad00a5ef5caed3115aa74b4bc36b2d3a_eleanor.jpg
 file_size: 39606
 file_type: image/jpeg
 image_metadata:
