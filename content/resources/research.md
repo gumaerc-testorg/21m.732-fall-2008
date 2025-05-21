@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class handout on research for costume design and construction.
-file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/926ffac35d3b302846a888bb300c8795_research.pdf
+file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/926ffac35d3b302846a888bb300c8795_research.pdf
 file_size: 27936
 file_type: application/pdf
 learning_resource_types: []

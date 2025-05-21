@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Alais: she is nothing but a beautifully wrapped pawn.'
-file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/85df31bef28bdfb7428180a677232bb2_alais1.jpg
+file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/85df31bef28bdfb7428180a677232bb2_alais1.jpg
 file_size: 48170
 file_type: image/jpeg
 image_metadata:
