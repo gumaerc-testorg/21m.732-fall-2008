@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Inspired by a sushi buffet, left.
-file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/adf7f86b8b372f3f2dd2ce684378fe06_sushi.jpg
+file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/adf7f86b8b372f3f2dd2ce684378fe06_sushi.jpg
 file_size: 68747
 file_type: image/jpeg
 image_metadata:

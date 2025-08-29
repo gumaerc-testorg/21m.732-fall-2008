@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A dress with diagonal lines.
-file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/8f7879109651bb87c80dc172688910ec_diagonal2.jpg
+file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/8f7879109651bb87c80dc172688910ec_diagonal2.jpg
 file_size: 27401
 file_type: image/jpeg
 image_metadata:
