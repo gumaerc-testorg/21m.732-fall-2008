@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Newspaper wedding gown for a Las Vegas show girl, from the front.
-file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/03a23c1ad9ad0e42891a5cb0fb5d38dd_showgirl1.jpg
+file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/03a23c1ad9ad0e42891a5cb0fb5d38dd_showgirl1.jpg
 file_size: 45474
 file_type: image/jpeg
 image_metadata:

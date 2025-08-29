@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Eleanor: a queen of queens.'
-file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/d5ef259126726170015e3bb068bcbce1_eleanor1.jpg
+file: /ol-ocw-studio-app/courses/21m-732-beginning-costume-design-and-construction-fall-2008/d5ef259126726170015e3bb068bcbce1_eleanor1.jpg
 file_size: 67301
 file_type: image/jpeg
 image_metadata:
